@@ -1,4 +1,4 @@
-This is an example GitHub App that creates a CI server that runs CI tests using the GitHub [Checks API](https://developer.github.com/v3/checks/). You can follow the "[Creating CI tests with the Checks API](https://developer.github.com/apps/quickstart-guides/creating-ci-tests-with-the-checks-api/)" quickstart guide on developer.github.com to learn how to build the app code in `server.rb`.
+12This is an example GitHub App that creates a CI server that runs CI tests using the GitHub [Checks API](https://developer.github.com/v3/checks/). You can follow the "[Creating CI tests with the Checks API](https://developer.github.com/apps/quickstart-guides/creating-ci-tests-with-the-checks-api/)" quickstart guide on developer.github.com to learn how to build the app code in `server.rb`.
 
 This project handles check run and check suite webhook events and uses the Octokit.rb library to make REST API calls. The CI test runs [RuboCop](https://rubocop.readthedocs.io/en/latest/) on all Ruby code in a repository and reports errors using the Checks API. This example project consists of two different servers:
 * `template_server.rb` (GitHub App template code)
@@ -19,3 +19,32 @@ To run the code, make sure you have [Bundler](http://gembundler.com/) installed;
 
 1. Run `ruby template_server.rb` or `ruby server.rb` on the command line.
 1. View the default Sinatra app at `localhost:3000`.
+
+test12
+sleep 3
+test 14
+https://smee.io/HMaDN4qs2TGe595H
+test 16
+test 17
+test 18
+test 19
+test 20
+change checks
+test
+tetst
+
+test 16
+test 17
+test 18
+test 19
+test 20
+change checks
+test
+tetst
+
+test 16
+test 17
+test 18
+test 19
+test 20
+change checks
